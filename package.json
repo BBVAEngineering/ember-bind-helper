@@ -19,6 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
+    "check-dependencies": "^1.1.0",
     "ember-ajax": "^2.4.1",
     "ember-cli": "2.9.1",
     "ember-cli-app-version": "^2.0.0",
@@ -38,7 +39,7 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "ember-welcome-page": "^1.0.3",
-    "eslint": "^4.17.0",
+    "eslint": "^3.0.0",
     "eslint-config-bbva": "^2.0.0",
     "loader.js": "^4.0.10"
   },
